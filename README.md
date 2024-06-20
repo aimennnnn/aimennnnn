@@ -1,6 +1,11 @@
 ## Hi there 👋
 
+I'm Aimen and I do Game Development and Graphic designing. I know C++, asm, and a little bit of Python and HTML. I'm currently learning UI UX designing and will try web dev soon. 
+
+[![Aimen's GitHub stats](https://github-readme-stats.vercel.app/api?username=aimenahmadd)](https://github.com/anuraghazra/github-readme-stats) 
+
 <!--
+
 **aimenahmadd/aimenahmadd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
