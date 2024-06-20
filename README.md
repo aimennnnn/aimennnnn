@@ -1,6 +1,6 @@
 ### Hi there 👋, Rk_05
 #### Design and Development
-![Desgin and Development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Desgin and Development](https://i.pinimg.com/564x/72/e6/06/72e6069e7deb45e5c53f13d509367b84.jpg)
 
 I'm Aimen and I do a bit of Game Development and Graphic designing. I know C++, ASM, and a bit of Python and HTML. I'm currently learning UI UX designing on Figma and 3D animation on Spline and will try web dev and Unity game development soon.
 
