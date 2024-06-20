@@ -5,12 +5,12 @@
 
 I'm Rk and I do a bit of Game Development and Graphic designing.
 
-##Skills 
+## Skills 
 * ASM
-* C++
-* Python
+* C++, Python
 * HTML
 
+## Other
 - 🔭 I’m currently working on and learning UI UX designing 
 - 📫 How to reach me: Email: aimentwo@gmail.com 
 - ⚡ Fun fact: I'm an artist (Check my Instagram link) 
