@@ -11,7 +11,7 @@ I'm Rk and I do a bit of Game Development and Graphic designing.
 * React, Maven
 
 ## About 
-- 🔭 I’m currently working on and learning UI UX designing 
+- 🔭 I’m currently working on UI UX side jobs and developing my web dev skills. 
 - 📫 How to reach me: Email: aimentwo@gmail.com or i220922@nu.edu.pk (valid email till july 2026) 
 - ⚡ Fun fact: I'm an artist (Check my Instagram link) 
 
