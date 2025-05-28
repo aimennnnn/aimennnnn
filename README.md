@@ -1,8 +1,5 @@
 ### Hello, I'm Aimen.
 
-![Desgin and Development](https://i.pinimg.com/564x/72/e6/06/72e6069e7deb45e5c53f13d509367b84.jpg)
-
-
 I'm Rk and I do a bit of Game Development and Graphic designing.
 
 ## Skills 
