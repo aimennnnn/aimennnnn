@@ -13,8 +13,6 @@ I'm Rk and I do a bit of Game Development and Graphic designing.
 * Python
 * React, Maven
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aimenahmadd)](https://github.com/anuraghazra/github-readme-stats)
-
 ## About 
 - 🔭 I’m currently working on and learning UI UX designing 
 - 📫 How to reach me: Email: aimentwo@gmail.com or i220922@nu.edu.pk (valid email till july 2026) 
