@@ -1,6 +1,6 @@
 ### Hello, I'm Aimen.
 
-I'm Rk and I do a bit of Game Development and Graphic designing.
+ I do Web Dev, a bit of Game Development and Graphic designing.
 
 ## Skills 
 * ASM
