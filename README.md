@@ -2,15 +2,6 @@
 
  I do Web Dev, a bit of Game Development and Graphic designing.
 
-## About 
-- 🔭 I’m currently working on UI UX side jobs and developing my web dev skills. 
-- 📫 How to reach me: Email: aimentwo@gmail.com or i220922@nu.edu.pk (valid email till july 2026) 
-- ⚡ Fun fact: I'm an artist (Check my Instagram link) 
-
-### Hello, I'm Aimen.
-
-I'm Rk and I do a bit of Game Development and Graphic designing.
-
 ## Skills 
 * ASM
 * C, C#, C++
